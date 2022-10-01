@@ -8,6 +8,10 @@ html {
     font-family: 'Roboto', sans-serif;
   }
 
+  .card {
+    border: none;
+  }
+
   .text-justify{
     text-align: justify;
   }
